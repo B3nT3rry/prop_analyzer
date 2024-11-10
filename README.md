@@ -15,7 +15,7 @@ A powerful Python-based tool for analyzing UK property investments. This system 
   - Rental market assessment
 
 - **Data Sources Integration**
-  - Rightmove & Zoopla listings
+  - Zoopla listings
   - Land Registry sold prices
   - ONS demographic data
   - Local authority planning data
